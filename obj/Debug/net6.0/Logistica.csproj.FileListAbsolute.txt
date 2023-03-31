@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\bin\Debug\net6.0\Logistica.exe
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\bin\Debug\net6.0\Logistica.deps.json
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\bin\Debug\net6.0\Logistica.runtimeconfig.json
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\bin\Debug\net6.0\Logistica.dll
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\bin\Debug\net6.0\Logistica.pdb
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\obj\Debug\net6.0\Logistica.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\obj\Debug\net6.0\Logistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\obj\Debug\net6.0\Logistica.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\obj\Debug\net6.0\Logistica.AssemblyInfo.cs
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\obj\Debug\net6.0\Logistica.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\obj\Debug\net6.0\Logistica.dll
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\obj\Debug\net6.0\refint\Logistica.dll
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\obj\Debug\net6.0\Logistica.pdb
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\obj\Debug\net6.0\Logistica.genruntimeconfig.cache
+C:\Users\aluno\Documents\POO 1\Prova\Logistica\obj\Debug\net6.0\ref\Logistica.dll
